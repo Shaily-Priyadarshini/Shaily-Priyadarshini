@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaily Priyadarshini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [MovieBuster](https://github.com/Shaily-Priyadarshini/Moviebuster)
+- 🔭 I’m currently working on [Swiggy Web App]( https://github.com/Shaily-Priyadarshini/Swiggy)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m gaining expertise **React Js** by working on Production Web App.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shaily-Priyadarshini](https://github.com/Shaily-Priyadarshini)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shailypriyadar@gmail.com**
 
-- 📄 Know about my experiences: I am a software developer in Cognizant Technology Solutions with the experience of 2.5 years.
+- 📄 Know about my experiences: I am a software developer in Cognizant Technology Solutions with the experience of 2.9 years.
 
 - ⚡ Fact **I am looking for the opportunity for frontend roles**
 
