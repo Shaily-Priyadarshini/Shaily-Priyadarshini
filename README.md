@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaily Priyadarshini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Swiggy Web App]( https://github.com/Shaily-Priyadarshini/Swiggy)
+- 🔭 I’m currently working on [Snapgram]( https://github.com/Shaily-Priyadarshini/Snapgram)
 
 - 🌱 I’m gaining expertise **React Js** by working on Production Web App.
 
