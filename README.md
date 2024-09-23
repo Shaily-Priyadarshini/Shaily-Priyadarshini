@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shailypriyadar@gmail.com**
 
-- 📄 Know about my experiences: I am a software developer in Cognizant Technology Solutions with the experience of 2.9 years.
+- 📄 Know about my experiences: I am a software developer in Cognizant Technology Solutions with the experience of 3 years.
 
 - ⚡ Fact **I am looking for the opportunity for frontend roles**
 
